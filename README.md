@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73FBFD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8997&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8997&size=35&center=true&vCenter=true&width=1000&lines=Oiii!,+Meu+nome+é+Emanuele+Franzner;Eu+tenho+20+anos;Estou+cursando+Análise+e+desenvolvimento+de+sistemas;Seja+Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73FBFD&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Emanuele+Franzner;Eu+tenho+20+anos;Estou+cursando+Análise+e+desenvolvimento+de+sistemas;Seja+muito+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)<br>
 <div><br>
  
 <p align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanueleFranzner&show_icons=true&count_private=true&hide_border=true&title_color=FF8997&icon_color=73FBFD&text_color=c9d1d9&bg_color=0d1117" alt="Emanuele Franzner github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=73FBFD&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=FF8997&text_color=ff91a4&bg_color=0d1117" />
 </div><br>
  
  ## Estudando no momento:
@@ -32,4 +32,4 @@
 ![snake gif](https://github.com/EmanueleFranzner/Emanuelefranzner/blob/output/github-contribution-grid-snake.svg)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73FBFD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8997&height=120&section=footer"/>
