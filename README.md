@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8997&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1F81&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73FBFD&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Emanuele+Franzner;Eu+tenho+20+anos;Estou+cursando+Análise+e+desenvolvimento+de+sistemas;Seja+muito+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D089FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Emanuele+Franzner;Eu+tenho+20+anos;Estou+cursando+Análise+e+desenvolvimento+de+sistemas;Seja+muito+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)<br>
 <div><br>
  
 <p align="center">
- <img src="https://user-images.githubusercontent.com/124642626/221864868-801eef84-e6eb-48a2-b6cc-dd2da8c90ba3.gif" width="150">
+ <img src="https://user-images.githubusercontent.com/124642626/222548824-60030351-ee47-497f-80ed-4dc6a4d818bc.gif" width="150">
 </p>
 </div><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanueleFranzner&show_icons=true&count_private=true&hide_border=true&title_color=FF8997&icon_color=73FBFD&text_color=c9d1d9&bg_color=0d1117" alt="Emanuele Franzner github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=FF8997&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanueleFranzner&show_icons=true&count_private=true&hide_border=true&title_color=FF1F81&icon_color=FF1F81&text_color=FFFFFF&bg_color=D089FF" alt="Emanuele Franzner github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FF1F81" />
 </div><br>
  
  ## Estudando no momento:
@@ -25,11 +25,11 @@
   
 <div><br>
       <a href="https://www.linkedin.com/in/emanuele-franzner/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=logoColor=white" target="_blank"></a>
-      <a href = "mailto:cmp.1a.franzneremanuele@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+      <a href = "mailto:cmp.1a.franzneremanuele@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF1F81?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 </div>
 <br>
 
 ![snake gif](https://github.com/EmanueleFranzner/Emanuelefranzner/blob/output/github-contribution-grid-snake.svg)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8997&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1F81&height=120&section=footer"/>
