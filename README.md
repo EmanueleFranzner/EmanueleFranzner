@@ -4,16 +4,16 @@
 <div><br>
  
 <p align="center">
- <img src="https://user-images.githubusercontent.com/124642626/222548824-60030351-ee47-497f-80ed-4dc6a4d818bc.gif" width="150">
+ <img src="https://user-images.githubusercontent.com/124642626/222573159-c6ceca54-dbea-4371-b165-5466087c1fd7.gif" width="150">
 </p>
 </div><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanueleFranzner&show_icons=true&count_private=true&hide_border=true&title_color=FF1F81&icon_color=FF1F81&text_color=FFFFFF&bg_color=D089FF" alt="Emanuele Franzner github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FF1F81" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmanueleFranzner&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=D089FF&text_color=FFFFFF&bg_color=FF1F81" alt="Emanuele Franzner github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFranzner&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=D089FF" />
 </div><br>
  
- ## Estudando no momento:
+ ## Estudando no momento
 <div style="display: inline_block"><br>
        <img align="center" alt="Manu-HTML" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
        <img align="center" alt="Manu-CSS" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -21,7 +21,7 @@
        <img align="center" alt="Manu-MySql" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div><br>
  
-  ## Entre em contato comigo:
+  ## Entre em contato comigo
   
 <div><br>
       <a href="https://www.linkedin.com/in/emanuele-franzner/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=logoColor=white" target="_blank"></a>
